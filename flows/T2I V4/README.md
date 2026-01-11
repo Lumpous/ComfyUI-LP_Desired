@@ -1,5 +1,23 @@
 ## (File: T2I V4.1f.json)<br>
 
+ [T2I V4](./T2I%20V4/) 
+
+Requirements:<br>
+[ComfyUI-LP_Desired](https://github.com/Lumpous/ComfyUI-LP_Desired)<br>
+[rgthree-comfy](https://github.com/rgthree/rgthree-comfy)<br>
+[ComfyUI-Inspire-Pack](https://github.com/ltdrdata/ComfyUI-Inspire-Pack)<br>
+[ComfyUI_RyanOnTheInside](https://github.com/ryanontheinside/ComfyUI_RyanOnTheInside)<br>
+[ComfyUI-Basic-Math](https://github.com/akatz-ai/ComfyUI-Basic-Math)<br>
+[ComfyMath](https://github.com/evanspearman/ComfyMath)<br>
+[ComfyUI-WildPromptor](https://github.com/1038lab/ComfyUI-WildPromptor)<br>
+[ComfyUI-stable-wildcards](https://github.com/DigitalIO/ComfyUI-stable-wildcards)<br>
+[ComfyUI-Impact-Subpack](https://github.com/ltdrdata/ComfyUI-Impact-Subpack)<br>
+[ComfyUI_StringEssentials](https://github.com/bradsec/ComfyUI_StringEssentials)<br>
+[ComfyUI_essentials](https://github.com/cubiq/ComfyUI_essentials)<br>
+[ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes)<br>
+[ComfyUI-String-Helper](https://github.com/liuqianhonga/ComfyUI-String-Helper)<br>
+[ComfyUI-WildPromptor](https://github.com/1038lab/ComfyUI-WildPromptor)<br>
+
 ## The full T2I workflow includes the following key sections:<br>
 <br>
 

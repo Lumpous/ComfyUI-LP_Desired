@@ -55,7 +55,7 @@ class SaveImageA1111:
     ):
         os.makedirs(output_path, exist_ok=True)
 
-        for i, image in enumerate(images):
+        for i, image in enumerate(images, start=1):
             img_np = image.cpu().numpy()
             img_np = (img_np * 255).clip(0, 255).astype(np.uint8)
             img = Image.fromarray(img_np)
@@ -154,7 +154,7 @@ class SaveImageA1111:
             # --------------------------------------------------
             # Filename: <name>_0000.png
             # --------------------------------------------------
-            final_name = f"{filename}_{i:04d}.png"
+            final_name = f"{filename}_{i:05d}.png"
             full_path = os.path.join(output_path, final_name)
 
             img.save(full_path, pnginfo=info)

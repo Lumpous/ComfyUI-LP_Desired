@@ -1,4 +1,11 @@
-## (File: T2I V4.1f.json)<br>
+## File: T2I V4.1f.json<br>
+
+---
+
+## File: T2I V4.1g.json - 2026/Jan/13<br>
+Added more dimensions to image size selection<br>
+
+---
 
  [T2I V4](./T2I%20V4/) 
 
